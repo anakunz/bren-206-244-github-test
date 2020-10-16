@@ -1,0 +1,13 @@
+---
+title: "Assignment2_github_test"
+author: "Anastasia Kunz"
+date: "10/16/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Please Please work with no more errors!
+
